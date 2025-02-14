@@ -88,6 +88,6 @@ pip install qfluentwidgets
 
 
 ## Auteur
-  Aourane Lyna Ines.
+  Aourane Lyna Ines
 - **Université :** CY Cergy Paris Université
 - **Date :** 03-12-2024
