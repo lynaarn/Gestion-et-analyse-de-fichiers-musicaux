@@ -60,23 +60,23 @@ pip install qfluentwidgets
 - Exécutez les commandes suivantes pour explorer des fichiers ou dossiers :
 
 #### Afficher l'aide :
-```python modecli.py -h
-```
+python modecli.py -h
+
 #### Explorer un dossier  :
-```python modecli.py -d "chemin_du_repertoire"
-```
+python modecli.py -d "chemin_du_repertoire"
+
 #### Analyser un fichier MP3 ou FLAC spécifique :
-```python modecli.py -f fichier.mp3
-```
+python modecli.py -f fichier.mp3
+
 #### Sauvegarder la playlist générée dans un fichier :
-```python modecli.py -d "chemin_du_repertoire" -o playlist.xspf
-```
+python modecli.py -d "chemin_du_repertoire" -o playlist.xspf
+
 #### Modification des metadonées d'un fichier :
-```python modecli.py --file music.mp3 --set-tags Title="New Title" Artist="New Artist" Album="New Album"        
-```
+python modecli.py --file music.mp3 --set-tags Title="New Title" Artist="New Artist" Album="New Album"        
+
 ####  Lecture des fichiers musicaux  :
-```python modecli.py 
-```
+python modecli.py 
+
 
 ### Mode GUI
 
