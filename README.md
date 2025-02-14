@@ -20,7 +20,7 @@ Le mode GUI offre une interface visuelle permettant aux utilisateurs d'explorer,
 
 Le script gui.py sert de point d'entrée principal pour le mode GUI, gérant la conception et l'affichage de l'interface visuelle. Son rôle est principalement de fournir une interface utilisateur intuitive pour explorer, afficher et modifier les fichiers audio MP3 et FLAC. En plus de cela, il offre des fonctionnalités avancées telles que l'intégration avec l'API Spotify pour la recherche d'albums et de chansons.
 
-Toute la logique sous-jacente, y compris les fonctionnalités liées à l'extraction et la modification des métadonnées, la gestion des playlists, ainsi que l'interaction avec l'API Spotify, est importée à partir des modules Python situés dans le répertoire library. Ces modules gèrent le traitement des fichiers et l'accès aux services externes, tandis que gui.py se concentre sur l'expérience utilisateur et l'interaction avec ces fonctionnalités.
+Toute la logique sous-jacente, y compris les fonctionnalités liées à l'extraction et la modification des métadonnées, la gestion des playlists, ainsi que l'interaction avec l'API Spotify, est importée à partir des modules Python situés dans le répertoire library. Ces modules gèrent le traitement des fichiers et l'accès aux services externes, tandis que gui.py se concentre sur l'expérience utilisateur et l'interaction avec ces fonctionnalités
 
 Fonctionnalités du script :
  
